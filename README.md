@@ -1,1 +1,1 @@
-# Python-darslari
+Ushbu darslarda pythonga oid darslar jamlangan
